@@ -34,6 +34,18 @@ This program finds **any valid tour** (open or closed) if one exists.
 - Java 17 or higher (uses modern collections and features).
 - No external libraries.
 
+## 🎯 Algorithmic Complexity
+
+- Worst-case time complexity: O(8^(n²))
+- With Warnsdorff’s heuristic: near-linear behavior in practice
+
+## 📊 Key Concepts Demonstrated
+
+- Backtracking optimization
+- Heuristic search
+- Graph traversal
+- Constraint satisfaction problems (CSP)
+
 ## 🚀 Compilation and Execution
 
 ```bash
